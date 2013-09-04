@@ -2,6 +2,14 @@
 
 Flexslider, with .scss file
 
+Install using bower
+
+```
+bower install flexslider-compass
+```
+
+## Usage
+
 Maybe you will want to use
 ```
 @import /bower_components/flexslider/flexslider.css
