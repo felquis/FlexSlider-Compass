@@ -1,0 +1,30 @@
+{
+  "name": "flexslider-compass",
+  "version": "2.2.0",
+  "readmeFilename": "README.md",
+  "_id": "flexslider-compass@2.2.0",
+  "description": "Flexslider with .scss file to import using Sass/Compass",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felquis/FlexSlider-Compass.git"
+  },
+  "homepage": "https://github.com/felquis/FlexSlider-Compass",
+  "authors": [
+    "Felquis Gimenes <frgformenton@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "flexslider",
+    "compass",
+    "scss",
+    "sass",
+    "slider"
+  ]
+}
